@@ -1,8 +1,7 @@
-<!-- Changelog (2025-11-26):
-- Added clear input contract from Module 1.
-- Clarified "near" and "different theme" in the day-building loop.
-- Added trimming rules for overfilled days based on pace.
--->
+Changelog (2025-11-26):
+Added clear input contract from Module 1.
+Clarified "near" and "different theme" in the day-building loop.
+Added trimming rules for overfilled days based on pace.
 
 Module 2 — Plan Builder (Options → Days)
 Inputs: Consumes normalized trip data from Module 1 (lodging area or hub, dates/length, budget, pace, interests, and constraints). This ensures concepts like “near lodging” and “cost range” are computable.
